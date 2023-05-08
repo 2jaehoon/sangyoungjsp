@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+<book>
+<title>Java의 정석</title>
+<author>남궁 성</author>
+<isbn>1234-1234-5654</isbn>
+<price>34,000</price>
+<pubCom>도우출판</pubCom>
+<info>자바의 기초부터 조져주마!!</info>
+</book>
+<book>
+<price>4,000</price>
+<title>송도에 강남까지 출근하기</title>
+<author>남궁 성</author>
+<isbn>1234-1234-5654</isbn>
+<pubCom>충연출판</pubCom>
+<info>출퇴근 거리만 80km 시간은 4시간 살려주세요</info>
+</book>
+<book>
+<price>23,000</price>
+<author>정동진</author>
+<author>최주호</author>
+<title>JSP &amp; Servlet 웹프로그래밍 입문 + 활용</title>
+<isbn>1234-1234-5654</isbn>
+<pubCom>앤써북</pubCom>
+<info>서블릿과 JSP를 ...</info>
+</book>
+<book>
+<!-- 위에 노드와 아래 노드는 노드의 순서, 노드의 구성이 같지 않아도 된다. -->
+<price>23,000</price>
+<author>윤상준</author>
+<author>최주호</author>
+<title>왜 2&lt;5 작은가?</title>
+<isbn>11234-1234-5654</isbn>
+<pubCom>철학 출판</pubCom>
+<info>쌀이 하얀 이유는?</info>
+</book>
+</books>
