@@ -2,7 +2,7 @@
     pageEncoding="UTF-8" info="다른 jsp에서 에러가 났을 때 보여줄 페이지" 
     isErrorPage="true"%>
     
-    s
+    
 <!DOCTYPE html>
 <html>
 <head>
